@@ -1,6 +1,6 @@
 # organisation-tools
 here there are few codes that are helpful in organizational processes.
-There is a powershell code that automatically copies files with the prefix SR and SC in the return copies folder, you can change the drice location I with your's, and also the prefix and destination folder as per your need.
+There is a powershell code that automatically copies files with the prefix SR and SC in the return copies folder, you can change the drive location I with your's, and also the prefix and destination folder as per your need.
 There is a powershell code that will show a pop up message in windows whenever a new file is added to the I drive, you can change the location as per your need.
 There is a batch script for copying the same file with different names.
 There is a batch script for creating a new folder for a specific file type and copy paste it's photos and videos.
